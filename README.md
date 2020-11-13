@@ -1,2 +1,3 @@
-# HelloGitHub
-My 1st Test Repository
+# Erstes GitHub Repository
+### Lehrveranstaltung: PR1
+### Name: Nikola Cerkezovic
